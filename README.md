@@ -11,7 +11,7 @@
 
 ### 프로젝트 기간
 
-**2022.01.02-진행중**
+**2022.04.11-2022.07.20**
 
 ### [Members](https://www.spacelog.today/introduce)
 
